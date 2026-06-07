@@ -2,7 +2,7 @@
 
 # ArchStudio
 
-### Free Architecture & Construction Website Template
+### Free Architecture & Construction Landing Page Template
 
 A premium dark-themed landing page for **architecture firms**, **construction companies**, and **design studios**.
 
@@ -26,10 +26,32 @@ A premium dark-themed landing page for **architecture firms**, **construction co
 
 <br />
 
-> ### 🎁 This is a **100% free template**
+> ### 🎁 This is a **100% free landing page template**
 >
-> Use it for personal or commercial projects — no payment, no license key, no restrictions.  
+> This repository is a **single-page (landing page)** website — clone it, use it, and deploy it **completely free**. No payment required.  
 > Modify, deploy, and rebrand as you wish. A ⭐ star is appreciated!
+
+<br />
+
+> ### 📄 Landing Page vs Multipage
+>
+> | Version | Price | Includes |
+> |---------|-------|----------|
+> | **Landing Page** *(this repo)* | **FREE** 🎁 | Single-page frontend — clone & use anytime |
+> | **Multipage Pro** | **$23.99** | Full multipage website + backend + admin panel |
+>
+> Need separate pages, CMS, or admin dashboard? **Multipage Pro** is available for **$23.99** with complete backend and admin panel included.
+>
+> **Contact me to order the multipage version:**
+>
+> | Channel | Link |
+> |---------|------|
+> | 💬 WhatsApp | [+993 10 324 92 35](https://wa.me/993103249235) |
+> | 📧 Email | [hi@umud.dev](mailto:hi@umud.dev) |
+> | 🎵 TikTok | Send a DM on TikTok |
+> | 💼 LinkedIn | [linkedin.com/in/umud-abbasli](https://www.linkedin.com/in/umud-abbasli/) |
+>
+> Reach out via whichever channel works best for you.
 
 <br />
 
@@ -45,6 +67,7 @@ A premium dark-themed landing page for **architecture firms**, **construction co
 ## 📋 Table of Contents
 
 - [About](#-about)
+- [Landing vs Multipage](#-landing-page-vs-multipage)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [SEO](#-seo)
@@ -58,7 +81,9 @@ A premium dark-themed landing page for **architecture firms**, **construction co
 
 ## 📖 About
 
-**ArchStudio** is a modern, SEO-friendly one-page website template built with **Next.js 15**, **React 19**, and **Tailwind CSS**.
+**ArchStudio** is a modern, SEO-friendly **single-page landing page** template built with **Next.js 15**, **React 19**, and **Tailwind CSS**.
+
+This is **not** a multipage website — all sections (hero, about, services, projects, contact) live on one scrollable page. Perfect for quick launches; for a full multipage site with backend and admin panel, see [Landing Page vs Multipage](#-landing-page-vs-multipage) above.
 
 It includes a cinematic hero video background, GSAP scroll animations, portfolio grid, services section, client testimonials, and a contact form — everything an architecture or construction business needs to launch online quickly.
 
@@ -69,6 +94,33 @@ It includes a cinematic hero video background, GSAP scroll animations, portfolio
 | 🏗️ Construction companies | 🏛️ Architecture agencies |
 | 🏠 Real estate developers | 🛋️ Interior design studios |
 | 🔧 Building contractors | 📐 Engineering firms |
+
+---
+
+## 📄 Landing Page vs Multipage
+
+### 🆓 Landing Page — FREE *(this repository)*
+
+- **Single-page** scroll website — all content on one page
+- **Clone and use for free** — no payment, no license key
+- Frontend only — no backend or admin panel
+
+### 💎 Multipage Pro — **$23.99**
+
+Full multipage website with **backend + admin panel** included:
+
+- ✅ Multiple dedicated pages
+- ✅ Backend API integration
+- ✅ Admin panel for content management
+
+**Contact me to order:**
+
+| Channel | Contact |
+|---------|---------|
+| 💬 WhatsApp | [+993 10 324 92 35](https://wa.me/993103249235) |
+| 📧 Email | [hi@umud.dev](mailto:hi@umud.dev) |
+| 🎵 TikTok | Send a DM on TikTok |
+| 💼 LinkedIn | [linkedin.com/in/umud-abbasli](https://www.linkedin.com/in/umud-abbasli/) |
 
 ---
 
@@ -211,14 +263,16 @@ Works on **Vercel** · **Netlify** · **Cloudflare Pages** · any Node.js host
 
 ## 🎁 Free License
 
-This project is distributed as a **free website template**.
+This **landing page** is distributed as a **free template** — clone and use at no cost.
 
 | ✅ Allowed | |
 |---|---|
 | Personal & commercial use | ✅ |
 | Modify & rebrand | ✅ |
 | Deploy anywhere | ✅ |
-| Payment required | ❌ |
+| Payment required for landing page | ❌ |
+
+> Multipage Pro (backend + admin panel) is a **paid product ($23.99)** — [contact me](#-landing-page-vs-multipage) for details.
 
 ---
 
